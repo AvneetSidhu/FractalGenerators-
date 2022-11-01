@@ -1,0 +1,6 @@
+[submodule "Buddhabrot"]
+	path = Buddhabrot
+	url = https://github.com/AvneetSidhu/Buddhabrot.git
+[submodule "mandelbrot"]
+	path = mandelbrot
+	url = https://github.com/AvneetSidhu/mandelbrot.git
