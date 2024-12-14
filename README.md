@@ -3,12 +3,9 @@ fractal generators written in C++
 
 To Do:
 
-- [ ] take user input
-- [ ] add different coloring options
 - [ ] pythagoras tree
 - [ ] julia set 
 - [ ] koch snowflake
-- [ ] combine into one app with gui
 
 
 ![image](https://user-images.githubusercontent.com/56938074/199154841-8254460f-fc33-4d31-9605-5902e996fe25.png)
